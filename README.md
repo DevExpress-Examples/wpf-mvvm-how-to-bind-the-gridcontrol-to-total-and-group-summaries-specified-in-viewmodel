@@ -14,8 +14,8 @@ This example demonstrates how to define total and group summaries in a ViewModel
 
 For more information, refer to the following help topics: 
 
+* [How to: Bind the Grid to Total and Group Summaries](http://docs.devexpress.com/WPF/10124/controls-and-libraries/data-grid/mvvm-enhancements/binding-to-total-and-group-summaries)
 * [TotalSummarySource](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataControlBase.TotalSummarySource)
 * [GroupSummarySource](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl.GroupSummarySource)
 * [TotalSummaryGeneratorTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataControlBase.TotalSummaryGeneratorTemplate)
 * [GroupSummaryGeneratorTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl.GroupSummaryGeneratorTemplate)
-* [How to: Bind the Grid to Total and Group Summaries](http://docs.devexpress.com/WPF/10124/controls-and-libraries/data-grid/mvvm-enhancements/binding-to-total-and-group-summaries)
