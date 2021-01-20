@@ -10,6 +10,6 @@
 
 This example demonstrates how to define total and group summaries in a ViewModel and bind them to the GridControl's summary collections.
 
-
+![](/Images/mvvm-summarybinding-result.png)
 
 For more information, refer to the following help topic: [How to: Bind the Grid to Total and Group Summaries](http://docs.devexpress.devx/WPF/10124/controls-and-libraries/data-grid/mvvm-enhancements/binding-to-total-and-group-summaries).
