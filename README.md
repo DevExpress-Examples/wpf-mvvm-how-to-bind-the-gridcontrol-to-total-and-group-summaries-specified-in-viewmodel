@@ -6,7 +6,7 @@
 * [CustomersDataModel.cs](./CS/SummarySample/CustomersDataModel.cs) (VB: [CustomersDataModel.vb](./VB/SummarySample/CustomersDataModel.vb))
 <!-- default file list end -->
 
-# How to Bind the WPF GridContol to Total and Group Summaries Specified in ViewModel
+# How to Bind the WPF GridControl to Total and Group Summaries Specified in ViewModel
 
 This example demonstrates how to define total and group summaries in a ViewModel and bind them to the GridControl's summary collections.
 
