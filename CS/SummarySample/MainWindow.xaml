@@ -33,7 +33,7 @@
                      GroupSummarySource="{Binding GroupSummary}"
                      GroupSummaryGeneratorTemplate="{StaticResource SummaryTemplate}">
         <dxg:GridControl.View>
-            <dxg:TableView ShowTotalSummary="True"/>
+            <dxg:TableView TotalSummaryPosition="Bottom"/>
         </dxg:GridControl.View>
     </dxg:GridControl>
 </Window>
