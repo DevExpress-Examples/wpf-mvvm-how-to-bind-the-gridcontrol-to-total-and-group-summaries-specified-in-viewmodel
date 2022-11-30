@@ -8,7 +8,7 @@
 
 This example demonstrates how to define total and group summaries in a ViewModel and bind them to the GridControl's summary collections.
 
-![](/Images/mvvm-summarybinding-result.png)
+![image](https://user-images.githubusercontent.com/65009440/204776537-4e815aac-45ed-48a1-900f-a93a7cebeff8.png)
 
 
 ## Files to Review
